@@ -1,3 +1,3 @@
 [submodule "qucrypt/Week_0"]
 	path = qucrypt/Week_0
-	url = git@github.com:QuCryptoX/Week_0.git
+	url = https://github.com/QuCryptoX/Week_0.git
