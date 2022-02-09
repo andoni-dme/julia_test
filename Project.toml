@@ -1,2 +1,2 @@
 [compat]
-julia = "0.6.2"
+julia = "1.0.0"
